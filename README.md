@@ -15,10 +15,10 @@ It was written for the purpose of producing mbti tests in flutter, and the main 
 We implemented the algorithm based on the paper below.
 http://www.lrjj.cn/
 
-##plan
+## plan
 Everyone
 
-##Development
+## Development
 -Overview & Question Page: Yeji Han (Team Leader)
 -Start page&json: Ha Sang-hyeon (team member)
 -Result button page&json: Son Se-eun (team member)
